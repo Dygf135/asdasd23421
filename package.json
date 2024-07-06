@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-script",
+  "version": "1.0.0",
+  "description": "Puppeteer script to solve CAPTCHA",
+  "main": "your-script.js",
+  "scripts": {
+    "test": "node your-script.js"
+  },
+  "dependencies": {
+    "puppeteer": "^13.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.5",
+    "axios": "^1.1.2"
+  }
+}
